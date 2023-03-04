@@ -1,2 +1,2 @@
-# InverseProblemInImaging
+# Inverse Problems in Imaging
 MasterMath
